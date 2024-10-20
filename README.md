@@ -1,2 +1,2 @@
 # QR-Code-Generation
-It's an easy and brief python program of my GitHub profile QR Code generation program using the 'qrcode' library
+It's an easy and brief python program of my LinkedIn profile QR Code generation program using the 'qrcode' library
